@@ -1,5 +1,4 @@
 class LoadState extends Phaser.State {
-
     preload() {
         this.game.stage.backgroundColor = '#72a8ff';
         this.loaded = false;
