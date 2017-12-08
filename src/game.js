@@ -1,3 +1,5 @@
+BLOCK_SIZE = 10;
+
 class Game extends Phaser.Game {
   constructor() {
 
